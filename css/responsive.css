@@ -34,6 +34,7 @@
   padding-left: 75px;
   padding-right: 75px; 
 }
+
 @media (max-width: 890px) {
   .store-geo {
   color: #FFFFFF;
@@ -98,6 +99,16 @@
   .nav-li {
   margin-right: 10px;
 }
+  .pixel-geo {
+    height: 50%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    color: #FFFFFF;
+  }
   .nav-a {
   color: #D9F0FF;
   font-family: 'Roboto', sans-serif;
